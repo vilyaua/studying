@@ -1,0 +1,23 @@
+https://www.instagram.com/oauth/authorize/?client_id=CLIENT-ID&redirect_uri=REDIRECT-URI&response_type=code
+
+Client ID 	54ee14aa1e834ec2aac6661299f5dd7f
+Client Secret 	6bf1c8a8df6440b4a2473aaddfeeaf85
+Website URL 	http://localhost
+Redirect URI 	http://localhost
+Support Email 	vilyaua@gmail.com
+
+https://www.instagram.com/oauth/authorize/?client_id=54ee14aa1e834ec2aac6661299f5dd7f&redirect_uri=http://localhost&response_type=code
+http://localhost/?code=44e914b9e83a4066b2e0f713878567e7
+
+https://api.instagram.com/v1/tags/nofilter/media/recent?access_token=ACCESS_TOKEN
+https://api.instagram.com/v1/dnipro/nofilter/media/recent?access_token=44e914b9e83a4066b2e0f713878567e7
+
+
+
+
+Done! Congratulations on your new bot. You will find it at telegram.me/vilya_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+158601274:AAHgLHhGAei-XOZwUXoB8yYoAtWGL_uDfiI
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api

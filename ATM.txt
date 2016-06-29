@@ -1,0 +1,4 @@
+Vasya:1944
+Sveta:400
+Vova:865
+Petya:2000
